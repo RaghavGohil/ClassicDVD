@@ -7,7 +7,7 @@ So I was having fun in my python class and was thinking what can I do (since i h
 # I am lazy
 
 I am lazy so I didn't implement the random directions when it hits the surface.. Instead, I just invert the speed vec lol.
-Also, there isn't a concept of deltatime here. Forgive me. I don't wont to work on this.
+Also, there isn't a concept of deltatime here. Forgive me. I don't want to work on this.
 
 # Do something?
 If you want to try, please open a PR :)
